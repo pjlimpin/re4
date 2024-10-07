@@ -1,6 +1,6 @@
 #Personal Portfolio blogging website (beginners project)
 
-A. Simple blogging website about the game Resident Evil 4 REMAKE 
+A. Simple blogging website about the game Resident Evil 4 REMAKE using HTML and CSS
 
 ##TABLE OF CONTENTS
 1. Homepage
